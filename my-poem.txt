@@ -1,0 +1,12 @@
+roses are red
+sky is blue
+git commands
+i like you
+
+I think I can write a song
+about using git branch wrong
+i thought i can create a branch
+using git branch -b 
+but i was wrong 
+the right command is 
+git checkout -b
